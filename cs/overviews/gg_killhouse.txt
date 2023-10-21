@@ -1,0 +1,14 @@
+// overview description file for gg_killhouse.bsp
+
+global 
+{
+	ZOOM	3.01
+	ORIGIN	0 	-64	192
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/gg_killhouse.bmp"
+	HEIGHT	-300
+}
