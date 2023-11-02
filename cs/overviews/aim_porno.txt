@@ -1,0 +1,14 @@
+// overview description file for aim_porno.bsp
+
+global 
+{
+	ZOOM	3.56
+	ORIGIN	0.00 	320.00	-1712.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_porno.tga"
+	HEIGHT	-3825.00
+}
