@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.01
+	ORIGIN	32	32	-481
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_scootathon2k.bmp"
+	HEIGHT	-481
+}
