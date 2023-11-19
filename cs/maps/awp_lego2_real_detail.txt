@@ -1,0 +1,8 @@
+// [texture name]	[detail texture name]			[hscale][vscale]
+
+lg_green01+		detail/lego/lego_ground01		1.0	1.0
+lg_yellow01+		detail/lego/lego_ground01		1.0	1.0
+lg_blue01+		detail/lego/lego_ground01		1.0	1.0
+lg_red01+		detail/lego/lego_ground01		1.0	1.0
+lw_white01+		detail/lego/lego_wall01			1.0	1.0
+lw_yellow01+		detail/lego/lego_wall01			1.0	1.0
