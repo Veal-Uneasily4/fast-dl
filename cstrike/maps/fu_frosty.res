@@ -1,0 +1,17 @@
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+sound/fu_winter.wav
+sprites/spr1n/digits/kzblt/x0.spr
+sprites/spr1n/digits/kzblt/x1.spr
+sprites/spr1n/digits/kzblt/x2.spr
+sprites/spr1n/digits/kzblt/x3.spr
+sprites/spr1n/digits/kzblt/x4.spr
+sprites/spr1n/digits/kzblt/x5.spr
+sprites/spr1n/digits/kzblt/x6.spr
+sprites/spr1n/digits/kzblt/x7.spr
+sprites/spr1n/digits/kzblt/x8.spr
+sprites/spr1n/digits/kzblt/x9.spr
