@@ -1,0 +1,14 @@
+// overview description file for air_fight.bsp
+
+global 
+{
+	ZOOM	0.91
+	ORIGIN	64	128	-1681
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/air_fight.bmp"
+	HEIGHT	-1681
+}
