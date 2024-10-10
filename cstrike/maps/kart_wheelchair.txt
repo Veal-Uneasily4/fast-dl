@@ -1,0 +1,16 @@
+Kart Wheelchair
+
+by drzj 
+
+https://gamebanana.com/members/2161064
+
+This is a fun map based on a Race Circuit where the vehicles are wheelchairs.
+
+Features:
+- 24 slots (wheelchairs) for competitors (TTs) and 8 for spectators (CTs).
+- A Camera Area where you can see different parts of the circuit.
+- A Pit Lane for wheelchairs that will not be used.
+- A total of 17 Curves on the circuit.
+- A Countdown Button at the start.
+
+Enjoy it!

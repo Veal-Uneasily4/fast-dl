@@ -1,0 +1,4 @@
+maps/kart_wheelchair.txt
+maps/kart_wheelchair.res
+overviews/kart_wheelchair.txt
+overviews/kart_wheelchair.bmp
