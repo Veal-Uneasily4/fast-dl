@@ -1,0 +1,19 @@
+// Detail texture map file for cs_evilcrazy level
+// [texture name]	[detail texture name]		  [hscale]	[vscale]
+
+
+crete3_wall02           detail/cs_evilcrazy/hal_roadbump          2             2
+cxgroundl               detail/cs_evilcrazy/hal_grassbump         6             6
+{hal_treeline6          detail/cs_evilcrazy/hal_woodbump1         4             4
+{hal_treeline5          detail/cs_evilcrazy/hal_woodbump1         4             4
+{hal_treeline1          detail/cs_evilcrazy/hal_woodbump1         4             4
+{hal_tree1_exp          detail/cs_evilcrazy/hal_woodbump1         4             4
+{hal_branch3            detail/cs_evilcrazy/hal_woodbump1         4             4
+tk_greybrick            detail/cs_evilcrazy/hal_tk_greybrick_bump 2             2
+c3a2a_pipe2             detail/cs_evilcrazy/hal_roadbump          2             2
+c3a2a_pipe2             detail/cs_evilcrazy/hal_roadbump          2             2
+c2a3turbine2            detail/cs_evilcrazy/hal_rustbump1         2             2
+tk_templewall           detail/cs_evilcrazy/hal_rustbump1         2             2
+pi_groundt              detail/cs_evilcrazy/hal_grassbump         6             6
+pi_groundw              detail/cs_evilcrazy/hal_grassbump         6             6
+cxrockfbase             detail/cs_evilcrazy/hal_roadbump          4             4

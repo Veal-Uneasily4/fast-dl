@@ -1,0 +1,36 @@
+                                        CS_EVILCRAZY
+                                      map made by shash7
+
+Ver 1.1
+
+Important notes:
+
+Type r_detailtextures 1 in the console when starting the map for the best graphics quality.
+
+Plot:
+
+On october 31st 2011, a group of teenagers crashed into an abandoned manor. Unfortunately, they did not know the terrifying history of the manor. A group of terrorist were also staking out the house to plan a major mayhem later on the week. They decide to sneak away after learning the spooky nature of the house. But before they could leave, the counter-terrorist show up in search of the four boys. 
+Very soon, mayhem erupts and the souls which were stored in the house for decades were wakened by the disturbance. 
+
+Features:
+Dynamic map layout.
+7 Truly scary events.
+Minigame where you can sacrifice your life for points.
+Detail texture support: looks more detailed now.
+32V32 Players support.
+Custom skybox, textures, sprites and models.
+Res file is included.
+                                          Credits.
+Mapper: shash7
+
+textures: www.cgtextures.com
+
+Models:1 vampire slayer mod
+       2 corvaho (corvalho1@gmail.com)
+
+Sounds:1 vampire slayer mod
+       2 www.Freesfx.co.uk
+
+Skybox: Nipper (cs_rhs22)
+
+
