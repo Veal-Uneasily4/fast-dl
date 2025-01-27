@@ -1,0 +1,9 @@
+maps/kz_built.res
+maps/kz_built.txt
+models/pi_fern.mdl
+models/pallet.mdl
+models/pi_tree.md
+models/Kicius/krumas_be_lapu.mdl
+sound/ambience/Birds9.wav
+sound/ambience/lv6.wav
+sound/wind_se.wav
